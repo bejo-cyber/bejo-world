@@ -14,7 +14,7 @@ bagas = 'bagas'
 for i in bagas:
     print(i)
 
-print('2======================')
+print('3======================')
 # for di dalam for
 buah = ['semangka','mangga','anggur','jeruk','apel']
 sayur = ['kangkung','wortel','bayam','kentang','tomat']

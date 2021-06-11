@@ -33,7 +33,7 @@ print('3=============================')
 for i in range(1,11):
     if i is 6:
         print('nilai i adalah', 6)
-        pass
+        pass # tidak ada fungsinya
         
     print('nilai saat ini adalah ',i)
 else:
